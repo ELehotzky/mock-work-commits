@@ -114,3 +114,4 @@ SELECT * from hvexy;
 SELECT * from ohuti;
 SELECT * from cjaem;
 SELECT * from vvcha;
+SELECT * from iwsqr;

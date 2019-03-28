@@ -115,3 +115,4 @@ SELECT * from ohuti;
 SELECT * from cjaem;
 SELECT * from vvcha;
 SELECT * from iwsqr;
+SELECT * from onhas;

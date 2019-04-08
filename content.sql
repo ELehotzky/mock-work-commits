@@ -116,3 +116,4 @@ SELECT * from cjaem;
 SELECT * from vvcha;
 SELECT * from iwsqr;
 SELECT * from onhas;
+SELECT * from diqma;

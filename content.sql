@@ -117,3 +117,4 @@ SELECT * from vvcha;
 SELECT * from iwsqr;
 SELECT * from onhas;
 SELECT * from diqma;
+SELECT * from sluqe;

@@ -118,3 +118,4 @@ SELECT * from iwsqr;
 SELECT * from onhas;
 SELECT * from diqma;
 SELECT * from bdflx;
+SELECT * from twdsa;

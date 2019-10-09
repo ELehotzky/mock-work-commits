@@ -119,4 +119,4 @@ SELECT * from onhas;
 SELECT * from diqma;
 SELECT * from bdflx;
 SELECT * from twdsa;
-SELECT * from naxyy;
+SELECT * from dmkeq;

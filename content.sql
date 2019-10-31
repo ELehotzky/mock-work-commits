@@ -121,3 +121,4 @@ SELECT * from bdflx;
 SELECT * from twdsa;
 SELECT * from dmkeq;
 SELECT * from gdrqh;
+SELECT * from glqxg;

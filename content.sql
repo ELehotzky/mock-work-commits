@@ -123,3 +123,4 @@ SELECT * from dmkeq;
 SELECT * from gdrqh;
 SELECT * from glqxg;
 SELECT * from gaikj;
+SELECT * from wswgj;

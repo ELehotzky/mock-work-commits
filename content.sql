@@ -127,3 +127,4 @@ SELECT * from wswgj;
 SELECT * from vsqfp;
 SELECT * from meuxs;
 SELECT * from haxld;
+SELECT * from odafl;

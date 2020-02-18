@@ -129,4 +129,4 @@ SELECT * from meuxs;
 SELECT * from haxld;
 SELECT * from odafl;
 SELECT * from rncxm;
-SELECT * from jpptt;
+SELECT * from ihuax;

@@ -130,3 +130,4 @@ SELECT * from haxld;
 SELECT * from odafl;
 SELECT * from rncxm;
 SELECT * from ihuax;
+SELECT * from nmycq;

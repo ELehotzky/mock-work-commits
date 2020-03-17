@@ -133,3 +133,4 @@ SELECT * from ihuax;
 SELECT * from nmycq;
 SELECT * from hhaoi;
 SELECT * from kalhx;
+SELECT * from ymape;

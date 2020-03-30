@@ -134,3 +134,4 @@ SELECT * from nmycq;
 SELECT * from hhaoi;
 SELECT * from kalhx;
 SELECT * from hoome;
+SELECT * from bukee;

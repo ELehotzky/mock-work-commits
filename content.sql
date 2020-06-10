@@ -138,3 +138,4 @@ SELECT * from qkwdx;
 SELECT * from lsdqm;
 SELECT * from ikbdo;
 SELECT * from qcvvd;
+SELECT * from wagwk;

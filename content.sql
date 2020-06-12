@@ -140,4 +140,3 @@ SELECT * from ikbdo;
 SELECT * from qcvvd;
 SELECT * from wagwk;
 SELECT * from jmnat;
-SELECT * from flepf;

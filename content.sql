@@ -1,1 +1,1 @@
-SELECT * from vwtrl;
+SELECT * from rjgvs;

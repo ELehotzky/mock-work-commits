@@ -1,2 +1,2 @@
 SELECT * from lejtq;
-SELECT * from mmrhh;
+SELECT * from xsnny;

@@ -141,4 +141,4 @@ SELECT * from qcvvd;
 SELECT * from wagwk;
 SELECT * from jmnat;
 SELECT * from yoyqx;
-SELECT * from sgwif;
+SELECT * from joivw;

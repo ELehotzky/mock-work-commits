@@ -1,2 +1,2 @@
 SELECT * from dahnn;
-SELECT * from mghqk;
+SELECT * from niubx;

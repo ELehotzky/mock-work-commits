@@ -1,3 +1,3 @@
 SELECT * from dahnn;
 SELECT * from ifwqq;
-SELECT * from tyuqg;
+SELECT * from bimbx;

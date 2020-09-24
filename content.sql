@@ -3,3 +3,4 @@ SELECT * from ifwqq;
 SELECT * from xnbfq;
 SELECT * from iyshk;
 SELECT * from vemji;
+SELECT * from ocptr;

@@ -4,3 +4,4 @@ SELECT * from xnbfq;
 SELECT * from iyshk;
 SELECT * from vemji;
 SELECT * from loakd;
+SELECT * from lpxse;

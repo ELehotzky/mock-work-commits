@@ -5,4 +5,4 @@ SELECT * from iyshk;
 SELECT * from vemji;
 SELECT * from loakd;
 SELECT * from lpxse;
-SELECT * from sootx;
+SELECT * from xkbyn;

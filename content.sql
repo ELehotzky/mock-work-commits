@@ -6,3 +6,4 @@ SELECT * from vemji;
 SELECT * from loakd;
 SELECT * from lpxse;
 SELECT * from qeyoi;
+SELECT * from lipwj;

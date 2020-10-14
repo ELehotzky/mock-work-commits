@@ -8,3 +8,4 @@ SELECT * from lpxse;
 SELECT * from qeyoi;
 SELECT * from lipwj;
 SELECT * from qhosl;
+SELECT * from olphg;

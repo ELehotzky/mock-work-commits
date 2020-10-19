@@ -9,3 +9,4 @@ SELECT * from qeyoi;
 SELECT * from lipwj;
 SELECT * from qhosl;
 SELECT * from olphg;
+SELECT * from lvprv;

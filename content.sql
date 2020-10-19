@@ -10,4 +10,4 @@ SELECT * from lipwj;
 SELECT * from qhosl;
 SELECT * from olphg;
 SELECT * from lvprv;
-SELECT * from xwnta;
+SELECT * from gsubs;

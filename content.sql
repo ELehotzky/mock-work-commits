@@ -12,3 +12,4 @@ SELECT * from olphg;
 SELECT * from lvprv;
 SELECT * from gsubs;
 SELECT * from qbaot;
+SELECT * from qlhrd;

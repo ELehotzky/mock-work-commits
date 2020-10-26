@@ -13,4 +13,5 @@ SELECT * from lvprv;
 SELECT * from gsubs;
 SELECT * from qbaot;
 SELECT * from qlhrd;
-SELECT * from uakic;
+SELECT * from xyjwp;
+SELECT * from hwehi;

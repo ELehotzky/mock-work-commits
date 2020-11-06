@@ -20,3 +20,4 @@ SELECT * from kufej;
 SELECT * from fomnj;
 SELECT * from ownkv;
 SELECT * from qdugm;
+SELECT * from krrqn;

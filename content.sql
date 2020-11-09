@@ -21,3 +21,4 @@ SELECT * from fomnj;
 SELECT * from ownkv;
 SELECT * from qdugm;
 SELECT * from krrqn;
+SELECT * from ivner;

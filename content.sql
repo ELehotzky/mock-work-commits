@@ -23,3 +23,4 @@ SELECT * from qdugm;
 SELECT * from krrqn;
 SELECT * from ivner;
 SELECT * from vapur;
+SELECT * from hsmqy;

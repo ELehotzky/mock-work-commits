@@ -26,3 +26,4 @@ SELECT * from vapur;
 SELECT * from hsmqy;
 SELECT * from sxyac;
 SELECT * from patsq;
+SELECT * from twond;

@@ -28,4 +28,4 @@ SELECT * from sxyac;
 SELECT * from patsq;
 SELECT * from twond;
 SELECT * from vwvqr;
-SELECT * from ninbm;
+SELECT * from lgjsy;

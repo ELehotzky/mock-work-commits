@@ -29,3 +29,4 @@ SELECT * from patsq;
 SELECT * from twond;
 SELECT * from vwvqr;
 SELECT * from apsma;
+SELECT * from jdtlh;

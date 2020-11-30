@@ -32,3 +32,4 @@ SELECT * from apsma;
 SELECT * from xuhlp;
 SELECT * from yjmfs;
 SELECT * from nhkdq;
+SELECT * from fqjxw;

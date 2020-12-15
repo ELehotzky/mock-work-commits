@@ -33,3 +33,4 @@ SELECT * from xuhlp;
 SELECT * from yjmfs;
 SELECT * from nhkdq;
 SELECT * from fqjxw;
+SELECT * from vtotb;

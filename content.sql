@@ -35,3 +35,4 @@ SELECT * from nhkdq;
 SELECT * from fqjxw;
 SELECT * from vtotb;
 SELECT * from vwsvt;
+SELECT * from ixmau;

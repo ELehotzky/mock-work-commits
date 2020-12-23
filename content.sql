@@ -41,3 +41,4 @@ SELECT * from ojxyd;
 SELECT * from cgili;
 SELECT * from kmjrv;
 SELECT * from fvjgw;
+SELECT * from nqkku;

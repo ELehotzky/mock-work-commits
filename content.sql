@@ -38,3 +38,4 @@ SELECT * from vwsvt;
 SELECT * from ixmau;
 SELECT * from pvnjh;
 SELECT * from ojxyd;
+SELECT * from cgili;

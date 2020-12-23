@@ -37,3 +37,4 @@ SELECT * from vtotb;
 SELECT * from vwsvt;
 SELECT * from ixmau;
 SELECT * from pvnjh;
+SELECT * from ojxyd;

@@ -43,3 +43,6 @@ SELECT * from kmjrv;
 SELECT * from fvjgw;
 SELECT * from nqkku;
 SELECT * from afcbr;
+SELECT * from ifmhp;
+SELECT * from fhcqn;
+SELECT * from lrcht;

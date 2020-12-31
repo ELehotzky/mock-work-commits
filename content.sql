@@ -47,3 +47,4 @@ SELECT * from ifmhp;
 SELECT * from fhcqn;
 SELECT * from lrcht;
 SELECT * from mojco;
+SELECT * from kdjix;

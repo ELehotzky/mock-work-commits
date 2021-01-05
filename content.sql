@@ -48,3 +48,4 @@ SELECT * from fhcqn;
 SELECT * from lrcht;
 SELECT * from mojco;
 SELECT * from kdjix;
+SELECT * from qoaaf;

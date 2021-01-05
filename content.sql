@@ -50,3 +50,4 @@ SELECT * from mojco;
 SELECT * from kdjix;
 SELECT * from qoaaf;
 SELECT * from bmewn;
+SELECT * from mmtfl;

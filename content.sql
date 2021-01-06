@@ -53,3 +53,4 @@ SELECT * from bmewn;
 SELECT * from mmtfl;
 SELECT * from kbkef;
 SELECT * from iotns;
+SELECT * from vsksi;

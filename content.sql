@@ -52,3 +52,4 @@ SELECT * from qoaaf;
 SELECT * from bmewn;
 SELECT * from mmtfl;
 SELECT * from kbkef;
+SELECT * from iotns;

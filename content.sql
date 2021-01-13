@@ -55,3 +55,4 @@ SELECT * from kbkef;
 SELECT * from iotns;
 SELECT * from vsksi;
 SELECT * from cyvxk;
+SELECT * from ftyop;

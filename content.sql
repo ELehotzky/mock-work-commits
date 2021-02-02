@@ -57,3 +57,4 @@ SELECT * from vsksi;
 SELECT * from cyvxk;
 SELECT * from ftyop;
 SELECT * from yiexh;
+SELECT * from tiinp;

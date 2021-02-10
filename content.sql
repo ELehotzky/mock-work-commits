@@ -61,3 +61,4 @@ SELECT * from tiinp;
 SELECT * from gmooe;
 SELECT * from tpygf;
 SELECT * from vmtut;
+SELECT * from dcsok;

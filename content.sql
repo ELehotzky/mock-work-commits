@@ -64,3 +64,4 @@ SELECT * from vmtut;
 SELECT * from eycds;
 SELECT * from kuypm;
 SELECT * from ocsjv;
+SELECT * from wvjmf;

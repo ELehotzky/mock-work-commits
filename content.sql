@@ -65,3 +65,4 @@ SELECT * from eycds;
 SELECT * from kuypm;
 SELECT * from ocsjv;
 SELECT * from wvjmf;
+SELECT * from omyyx;

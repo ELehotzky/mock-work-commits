@@ -68,3 +68,4 @@ SELECT * from wvjmf;
 SELECT * from omyyx;
 SELECT * from vsmsn;
 SELECT * from grnpn;
+SELECT * from rqgri;

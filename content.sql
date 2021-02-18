@@ -69,3 +69,4 @@ SELECT * from omyyx;
 SELECT * from vsmsn;
 SELECT * from grnpn;
 SELECT * from rqgri;
+SELECT * from jnhap;

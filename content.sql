@@ -71,3 +71,4 @@ SELECT * from grnpn;
 SELECT * from rqgri;
 SELECT * from jnhap;
 SELECT * from ndlws;
+SELECT * from cgvbu;

@@ -72,3 +72,4 @@ SELECT * from rqgri;
 SELECT * from jnhap;
 SELECT * from ndlws;
 SELECT * from hjmil;
+SELECT * from gfgvi;

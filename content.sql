@@ -78,3 +78,7 @@ SELECT * from kkfao;
 SELECT * from vitai;
 SELECT * from fnrva;
 SELECT * from efcfb;
+SELECT * from ipwhn;
+SELECT * from ndupj;
+SELECT * from otxhl;
+SELECT * from wvohk;

@@ -88,3 +88,4 @@ SELECT * from yknne;
 SELECT * from fkjhd;
 SELECT * from nxebl;
 SELECT * from qpkil;
+SELECT * from wunlw;

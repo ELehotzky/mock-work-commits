@@ -84,3 +84,4 @@ SELECT * from otxhl;
 SELECT * from wvohk;
 SELECT * from bicld;
 SELECT * from hnoyy;
+SELECT * from yknne;

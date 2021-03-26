@@ -93,3 +93,4 @@ SELECT * from vlgan;
 SELECT * from bfoij;
 SELECT * from oxprl;
 SELECT * from gufdi;
+SELECT * from inknf;

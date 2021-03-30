@@ -97,3 +97,4 @@ SELECT * from inknf;
 SELECT * from cokdq;
 SELECT * from ydgik;
 SELECT * from whstd;
+SELECT * from ujyco;

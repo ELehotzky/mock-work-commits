@@ -100,3 +100,4 @@ SELECT * from whstd;
 SELECT * from ujyco;
 SELECT * from musow;
 SELECT * from aatdw;
+SELECT * from uqakq;

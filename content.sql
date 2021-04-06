@@ -104,3 +104,4 @@ SELECT * from uqakq;
 SELECT * from mxkqv;
 SELECT * from qcbas;
 SELECT * from cimsa;
+SELECT * from espin;

@@ -107,3 +107,4 @@ SELECT * from cimsa;
 SELECT * from espin;
 SELECT * from ghpeo;
 SELECT * from qqral;
+SELECT * from jiouf;
